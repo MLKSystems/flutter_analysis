@@ -1,0 +1,9 @@
+name: flutter_analysis
+description: "Dart and Flutter lint rules for MLK Systems."
+version: 1.0.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  very_good_analysis: ^5.1.0
